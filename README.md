@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of davidnery/nickname-group-formatter.** Not for installation: use [Packagist](https://packagist.org/packages/davidnery/nickname-group-formatter) or the [upstream repository](https://github.com/DavidNery/flarum-nickname-group-formatter).
 
-**0** versions archived · Latest: [`v0.3`](https://github.com/flarchive/davidnery-nickname-group-formatter/tree/archive/v0.3) · Flarum: `>=0.1.0-beta.13`
+**3** versions archived · Latest: [`v0.3`](https://github.com/flarchive/davidnery-nickname-group-formatter/tree/archive/v0.3) · Flarum: `>=0.1.0-beta.13`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1` | 2020-10-18 | `>=0.1.0-beta.13` | [Browse](https://github.com/flarchive/davidnery-nickname-group-formatter/tree/archive/v0.1) |
+| `v0.2` | 2020-10-19 | `>=0.1.0-beta.13` | [Browse](https://github.com/flarchive/davidnery-nickname-group-formatter/tree/archive/v0.2) |
+| `v0.3` | 2020-12-19 | `>=0.1.0-beta.13` | [Browse](https://github.com/flarchive/davidnery-nickname-group-formatter/tree/archive/v0.3) |
 
 Catalog entry: [packages/davidnery-nickname-group-formatter.json](https://github.com/flarchive/archive-index/blob/main/packages/davidnery-nickname-group-formatter.json)
 
